@@ -11,13 +11,13 @@ Este app apresenta a previsão do tempo para a sua região, ao inicializá-lo vo
 <img src="", width="200"/>
 </p>
 
-# Linguagem e Ferramentas Usadas
+## Linguagem e Ferramentas Usadas
 - Swift
 - Alamofire
 - Core Location
 - Swift Package Dependencies
 
-# Técnicas Usadas
+## Técnicas Usadas
 - View Code
 - Arquitetura MVC
 - Requisições de API
