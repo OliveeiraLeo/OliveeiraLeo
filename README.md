@@ -1,6 +1,6 @@
 # 👋 Olá, bem vindo ao meu portfólio! 😃
 
-Neste portfólio busco demonstrar meu conhecimento e ferramentas utilizadas para a criação de apps, sendo eles sempre de forma organizada com um código limpo e de fácil compreensão.😉 
+Neste portfólio busco demonstrar meu conhecimento para a criação de apps, sendo eles sempre de forma organizada com um código limpo e de fácil compreensão.😉 
 
 ## Weather Forecast App
 
