@@ -37,6 +37,7 @@ Este projeto está em inglês, sendo primeiramente aprensentada uma tela inicial
 - Swift
 - DGCharts
 - Alamofire
+- Swift Package Dependencies
 
 ## Técnicas Usadas
 - View Code
