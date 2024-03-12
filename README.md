@@ -2,7 +2,7 @@
 
 Neste portfólio busco demonstrar meu conhecimento para a criação de apps em swift, sempre buscando ser o mais compreensível e objetivo possível! 
 
-## Weather Forecast App
+## [Weather Forecast App](https://github.com/OliveeiraLeo/Weather-Forecast-App)
 
 Este projeto apresenta a previsão do tempo para a sua região, ao inicializá-lo você sera redirecionado para uma tela que requisita seus dados de latitude e longitude, após fornecidos de forma correta ele irá lhe enviar para a tela em que representa os dados de temperatura, umidade, velocidade do vento e uma previsão do tempo para as próximas 8 horas. Clicando no botão superior direito você será enviado para sua segunda tela, sendo esta tela a que irá lhe apresentar um aviso informando sobre os cuidados para o dia e um tabela informando as previsões de temperatura mínima e maxima para os proximos dias, além de um ícone simbolizando o clima predominante no dia representado!
 
@@ -23,7 +23,7 @@ Este projeto apresenta a previsão do tempo para a sua região, ao inicializá-l
 - Requisições de API
 
 
-## Crypto Stats App
+## [Crypto Stats App](https://github.com/OliveeiraLeo/Crypto-Stats-App/tree/main/Crypto-APP/Views)
 
 Este projeto está em inglês, sendo primeiramente aprensentada uma tela inicial dando boas vindas ao usuário, quando clicado o botão ele irá lhe enviar para a tela onde será apresentado uma collection view com diversas crypto moedas e seus valores atuais, você pode rolar a collection view para baixo ou para cima e escolher qual moeda você deseja ver mais informações. Após clicar em uma das moedas você será enviado para outra tela onde estará representado um gráfico de mudança do valor da moeda nos últimos 7 dias, abaixo estará sendo mostrado os valores máximo, mínimo e atual durante as últimas 24 horas da moeda selecionada, além da porcentagem de mudança do valor da moeda na última hora, dia, semana, quinzena, mês e ano.
 
