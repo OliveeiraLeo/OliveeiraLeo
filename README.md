@@ -23,5 +23,32 @@ Este projeto apresenta a previsão do tempo para a sua região, ao inicializá-l
 - Requisições de API
 
 
+## Crypto Stats App
+
+Este projeto está em inglês, sendo primeiramente aprensentada uma tela inicial dando boas vindas ao usuário, quando clicado o botão ele irá lhe enviar para a tela onde será apresentado uma collection view com diversas crypto moedas e seus valores atuais, você pode rolar a collection view para baixo ou para cima e escolher qual moeda você deseja ver mais informações. Após clicar em uma das moedas você será enviado para outra tela onde estará representado um gráfico de mudança do valor da moeda nos últimos 7 dias, abaixo estará sendo mostrado os valores máximo, mínimo e atual durante as últimas 24 horas da moeda selecionada, além da porcentagem de mudança do valor da moeda na última hora, dia, semana, quinzena, mês e ano.
+
+<p align="center">
+<img src="https://github.com/OliveeiraLeo/assets/blob/main/CryptoStatsStartView.png", width="200"/>
+<img src="https://github.com/OliveeiraLeo/assets/blob/main/CryptoStatsFirstView.png", width="200"/>
+<img src="https://github.com/OliveeiraLeo/assets/blob/main/CryptoStatsSecondView.png", width="200"/>
+</p>
+
+## Linguagem e Ferramentas Usadas
+- Swift
+- DGCharts
+- Alamofire
+
+## Técnicas Usadas
+- View Code
+- Arquitetura MVC
+- Requisições de API
+
+
+
+
+
+
+
+
 
 
