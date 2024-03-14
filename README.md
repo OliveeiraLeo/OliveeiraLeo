@@ -19,7 +19,6 @@ Este projeto apresenta a previsão do tempo para a sua região, ao inicializá-l
 
 ## Técnicas Usadas
 - 🎨 View Code
-- 🏦 Arquitetura MVC
 - ⏱️ Requisições de API
 
 
@@ -41,7 +40,6 @@ Este projeto está em inglês, sendo primeiramente aprensentada uma tela inicial
 
 ## Técnicas Usadas
 - 🎨 View Code
-- 🏦 Arquitetura MVC
 - ⏱️ Requisições de API
 
 
