@@ -43,6 +43,25 @@ Este projeto está em inglês, sendo primeiramente aprensentada uma tela inicial
 - ⏱️ Requisições de API
 
 
+## [Trivia Game App](https://github.com/OliveeiraLeo/Trivia-Game-App) 🧩
+
+Mais um projeto criado em inglês, sendo este um game de trivia com 10 questões sobre variados assuntos. Primeiramente temos uma tela que apresenta um botão e lhe da as boas vindas, clicando o botão você inicia o game e é enviado para uma tela com multiplas escolhas, onde você clica em uma alternativa e instantaneamente ve se sua resposta está certa ou errada. Ao final das 10 questões você é enviado para a tela final onde é apresentado a sua pontuação e um botão para reiniciar o jogo e outro para retornar a tela inicial.
+
+<p align="center">
+<img src="https://github.com/OliveeiraLeo/assets/blob/main/FirstView.png", width="200"/>
+<img src="https://github.com/OliveeiraLeo/assets/blob/main/ContentView.png", width="200"/>
+<img src="https://github.com/OliveeiraLeo/assets/blob/main/LastView.png", width="200"/>
+</p>
+
+## Linguagem e Ferramentas Usadas
+- ⚙️ Swift
+- 🔥 Alamofire
+- 📦 Swift Package Dependencies
+
+## Técnicas Usadas
+- 🎨 SwiftUI
+- ⏱️ Requisições de API
+
 
 
 
