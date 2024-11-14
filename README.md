@@ -1,4 +1,4 @@
-# 👋 Olá, bem vindo ao meu portfólio! 😃
+# Bem vindo ao meu portfólio! 👋😃
 
 Neste portfólio busco demonstrar meu conhecimento para a criação de apps em swift, sempre buscando ser o mais compreensível e objetivo possível! 
 
