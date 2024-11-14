@@ -4,7 +4,7 @@ Neste portfólio busco demonstrar meu conhecimento para a criação de apps em s
 
 ## [Weather Forecast App](https://github.com/OliveeiraLeo/Weather-Forecast-App) ⛈️
 
-Este projeto apresenta a previsão do tempo para a sua região, ao inicializá-lo você sera redirecionado para uma tela que requisita seus dados de latitude e longitude, após fornecidos de forma correta ele irá lhe enviar para a tela em que representa os dados de temperatura, umidade, velocidade do vento e uma previsão do tempo para as próximas 8 horas. Clicando no botão superior direito você será enviado para sua segunda tela, sendo esta tela a que irá lhe apresentar um aviso informando sobre os cuidados para o dia e um tabela informando as previsões de temperatura mínima e maxima para os proximos dias, além de um ícone simbolizando o clima predominante no dia representado!
+O projeto exibe a previsão do tempo da sua região usando latitude e longitude informados. Mostra dados de temperatura, umidade, velocidade do vento e previsão para as próximas 8 horas. Uma segunda tela traz alertas para o dia, além de uma tabela com as previsões de mínima e máxima para os próximos dias, incluindo ícones do clima.
 
 <p align="center">
 <img src="https://github.com/OliveeiraLeo/assets/blob/main/WeatherAppStartView.png", width="200"/>
@@ -24,7 +24,7 @@ Este projeto apresenta a previsão do tempo para a sua região, ao inicializá-l
 
 ## [Crypto Stats App](https://github.com/OliveeiraLeo/Crypto-Stats-App/tree/main/Crypto-APP/Views) 📊 
 
-Este projeto está em inglês, sendo primeiramente aprensentada uma tela inicial dando boas vindas ao usuário, quando clicado o botão ele irá lhe enviar para a tela onde será apresentado uma collection view com diversas crypto moedas e seus valores atuais, você pode rolar a collection view para baixo ou para cima e escolher qual moeda você deseja ver mais informações. Após clicar em uma das moedas você será enviado para outra tela onde estará representado um gráfico de mudança do valor da moeda nos últimos 7 dias, abaixo estará sendo mostrado os valores máximo, mínimo e atual durante as últimas 24 horas da moeda selecionada, além da porcentagem de mudança do valor da moeda na última hora, dia, semana, quinzena, mês e ano.
+O projeto inicia com uma tela de boas-vindas. Ao avançar, você vê uma collection view com criptomoedas e seus valores atuais. Você pode rolar a lista e selecionar uma moeda para obter detalhes. A tela de detalhes exibe um gráfico da variação nos últimos 7 dias, além de mostrar os valores máximo, mínimo e atual nas últimas 24h, e as porcentagens de mudança na última hora, dia, semana, quinzena, mês e ano da moeda escolhida.
 
 <p align="center">
 <img src="https://github.com/OliveeiraLeo/assets/blob/main/CryptoStatsStartView.png", width="200"/>
@@ -45,7 +45,7 @@ Este projeto está em inglês, sendo primeiramente aprensentada uma tela inicial
 
 ## [Trivia Game App](https://github.com/OliveeiraLeo/Trivia-Game-App) 🧩
 
-Este projeto é um game de trivia com 10 questões sobre variados assuntos. Primeiramente temos uma tela que apresenta um botão e lhe da as boas vindas, clicando o botão você inicia o game e é enviado para uma tela com multiplas escolhas, onde você tem uma lista de respostas e pode clicar em uma alternativa escolhida, sendo que instantaneamente irá ser mostrado se sua resposta está certa ou errada. Ao final das 10 questões você é enviado para a tela final onde é apresentado a sua pontuação e um botão para reiniciar o jogo e outro para retornar a tela inicial.
+O projeto é um game de trivia com 10 perguntas sobre diversos temas. Inicia com uma tela de boas-vindas e um botão para começar o jogo. Na tela de perguntas, você escolhe uma resposta e vê imediatamente se acertou. Ao final das 10 perguntas, uma tela exibe sua pontuação, com opção para reiniciar o jogo ou voltar ao menu inicial.
 
 <p align="center">
 <img src="https://github.com/OliveeiraLeo/assets/blob/main/FirstView.png", width="200"/>
