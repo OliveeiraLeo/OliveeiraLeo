@@ -8,9 +8,9 @@ Neste portfólio busco demonstrar meu conhecimento para a criação de apps em s
 Cine Scope é um guia de filmes interativo que permite explorar diversos títulos, adicionar favoritos e filtrar os filmes de acordo com suas preferências. A interface é intuitiva e baseada em cards interativos, que ao serem clicados exibem detalhes do filme como sinopse, duração e avaliação.
 
 <p align="center">
-<img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope.jpeg", width="300"/>
-<img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope-Favorites.jpeg", width="300"/>
-<img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope-Synopsis.jpeg", width="300"/>
+<img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope.jpeg", width="400"/>
+<img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope-Favorites.jpeg", width="400"/>
+<img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope-Synopsis.jpeg", width="400"/>
 </p>
 
 ## Linguagem e Ferramentas Usadas
