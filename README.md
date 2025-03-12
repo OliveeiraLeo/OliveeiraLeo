@@ -9,9 +9,9 @@ Cine Scope é um guia de filmes interativo que permite explorar diversos título
 
 <p align="center">
 <img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope.jpeg", width="400"/>
+<img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope-Synopsis.jpeg", width="400"/>
 <img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope-Filters.jpeg", width="400"/>
 <img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope-Favorites.jpeg", width="400"/>
-<img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope-Synopsis.jpeg", width="400"/>
 </p>
 
 ## Linguagem e Ferramentas Usadas
