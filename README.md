@@ -2,6 +2,29 @@
 
 Neste portfólio busco demonstrar meu conhecimento para a criação de apps em swift, sempre buscando ser o mais compreensível e objetivo possível! 
 
+
+## [Cine Scope App](https://github.com/OliveeiraLeo/Cine-Scope-App) 🎬
+
+Cine Scope é um guia de filmes interativo que permite explorar diversos títulos, adicionar favoritos e filtrar os filmes de acordo com suas preferências. A interface é intuitiva e baseada em cards interativos, que ao serem clicados exibem detalhes do filme como sinopse, duração e avaliação.
+
+<p align="center">
+<img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope.jpeg", width="300"/>
+<img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope-Favorites.jpeg", width="300"/>
+<img src="https://github.com/OliveeiraLeo/assets/blob/main/Cine-Scope-Synopsis.jpeg", width="300"/>
+</p>
+
+## Linguagem e Ferramentas Usadas
+- ⚙️ HTML: Estrutura da página.
+- 🖼️ CSS: Estilização e layout responsivo.
+- 📦 JavaScript: Funcionalidades interativas e manipulação da interface.
+- 📦 LocalStorage: Armazenamento dos favoritos no navegador.
+- ⏱️ API The Movie DB: Busca de informações sobre os filmes.
+
+## Técnicas Usadas
+- 🎨 View Code: Estrutura e estilização utilizando HTML e CSS.
+- ⏱️ Requisições de API: Utilização do JavaScript para fazer requisições à API The Movie DB e exibir os dados na interface.
+
+
 ## [Weather Forecast App](https://github.com/OliveeiraLeo/Weather-Forecast-App) ⛈️
 
 O projeto exibe a previsão do tempo da sua região usando latitude e longitude informados. Mostra dados de temperatura, umidade, velocidade do vento e previsão para as próximas 8 horas. Uma segunda tela traz alertas para o dia, além de uma tabela com as previsões de mínima e máxima para os próximos dias, incluindo ícones do clima.
