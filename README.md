@@ -1,6 +1,6 @@
 # Bem vindo ao meu portfólio! 👋😃
 
-Neste portfólio busco demonstrar meu conhecimento para a criação de apps em swift, sempre buscando ser o mais compreensível e objetivo possível! 
+Neste portfólio busco demonstrar meu conhecimento para a criação de apps em linguagem web e swift, sempre buscando ser o mais compreensível e objetivo possível! 
 
 
 ## [Cine Scope App](https://github.com/OliveeiraLeo/Cine-Scope-App) 🎬
